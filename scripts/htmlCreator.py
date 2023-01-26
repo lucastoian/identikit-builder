@@ -248,7 +248,7 @@ for i in range(len(instagramImages)):
 html = html_intestation + html_images + "</div>" + html_linkedin + html_linkedin_jobs + html_linkedin_education + "</div>" +  html_twitter + html_twitter_statuses + "</div>" + html_instagram + html_instagramAddress + html_instagramHashtags +"</div>" +  "</body></html>"
 
 
-report = open('output/REPOR2T.html', 'w')
+report = open('output/report.html', 'w')
 report.write(html)
   
 # close the file
