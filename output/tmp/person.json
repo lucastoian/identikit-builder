@@ -1,0 +1,66 @@
+{
+        "nome": "Luca Stoian",
+        "jobtitle": "Studente presso Universit\u00e0 degli Studi di Milano",
+        "location": "Busto Arsizio, Lombardy, Italy",
+        "industryName": "Software Development",
+        "geoCountryName": "Italy",
+        "geoLocation": {
+                "geoUrn": "urn:li:fs_geo:104375743",
+                "postalCode": "21052"
+        },
+        "experience": [
+                {
+                        "locationName": "Milano, Lombardia, Italia",
+                        "entityUrn": "urn:li:fs_position:(ACoAADrJCJYBIsbDnKieXf5XCptH8V6KM7PYpvc,2050105178)",
+                        "geoLocationName": "Milano, Lombardia, Italia",
+                        "geoUrn": "urn:li:fs_geo:100881402",
+                        "companyName": "Bit Software Solutions",
+                        "timePeriod": {
+                                "startDate": {
+                                        "month": 2,
+                                        "year": 2022
+                                }
+                        },
+                        "description": "1) scrittura test automatici in selenium\n2) performance test\n3) creazione pipeline CI/CD\n4) esecuzione test automatici su mobile",
+                        "company": {
+                                "employeeCountRange": {
+                                        "start": 51,
+                                        "end": 200
+                                },
+                                "industries": [
+                                        "Informatica e servizi"
+                                ]
+                        },
+                        "title": "Test Automation Specialist",
+                        "region": "urn:li:fs_region:(it,0)",
+                        "companyUrn": "urn:li:fs_miniCompany:10031642",
+                        "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGZyFrbDqG6mA/company-logo_"
+                }
+        ],
+        "education": [
+                {
+                        "entityUrn": "urn:li:fs_education:(ACoAADrJCJYBIsbDnKieXf5XCptH8V6KM7PYpvc,787473144)",
+                        "school": {
+                                "objectUrn": "urn:li:school:13875",
+                                "entityUrn": "urn:li:fs_miniSchool:13875",
+                                "active": true,
+                                "schoolName": "Universit\u00e0 degli Studi di Milano",
+                                "trackingId": "SD3y2XewSWWjVHArSdS4kw==",
+                                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFrbSQVVNfRrg/company-logo_"
+                        },
+                        "timePeriod": {
+                                "endDate": {
+                                        "year": 2022
+                                },
+                                "startDate": {
+                                        "year": 2019
+                                }
+                        },
+                        "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100177",
+                        "degreeName": "Informatica",
+                        "schoolName": "Universit\u00e0 degli Studi di Milano",
+                        "fieldOfStudy": "Informatica",
+                        "schoolUrn": "urn:li:fs_miniSchool:13875"
+                }
+        ]
+}

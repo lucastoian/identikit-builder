@@ -1,0 +1,15 @@
+pip3 install linkedin-api~=2.0.0a
+pip install python-twitter
+
+
+dentro Osintagram
+
+python3 -m venv venv
+pip install -r requirements.txt
+
+
+pip install --user -U nltk
+python3 -m pip install -U matplotlib
+
+pip install WordCloud
+pip install hatesonar

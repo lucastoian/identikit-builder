@@ -1,0 +1,5 @@
+[2022-11-30 07:15:33AM] [INFO] Opened new session on luca-System-Product-Name:luca
+[2022-11-30 07:15:39AM] [DEBUG] Starting new HTTPS connection (1): api.github.com:443
+[2022-11-30 07:15:39AM] [DEBUG] https://api.github.com:443 "GET /users/lucastoian HTTP/1.1" 200 452
+[2022-11-30 07:16:00AM] [INFO] Logging skipped -> (n)
+[2022-11-30 07:16:09AM] [WARNING] Session terminated with Ctrl+C.

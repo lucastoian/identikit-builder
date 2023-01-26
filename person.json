@@ -1,0 +1,170 @@
+{
+        "nome": "Luca Stoian",
+        "jobtitle": "Studente presso Universit\u00e0 degli Studi di Milano",
+        "location": "Busto Arsizio, Lombardy, Italy",
+        "industryName": "Software Development",
+        "geoCountryName": "Italy",
+        "geoLocation": {
+                "geoUrn": "urn:li:fs_geo:104375743",
+                "postalCode": "21052"
+        },
+        "experience": [
+                {
+                        "locationName": "Milano, Lombardia, Italia",
+                        "entityUrn": "urn:li:fs_position:(ACoAADrJCJYBIsbDnKieXf5XCptH8V6KM7PYpvc,2050105178)",
+                        "$anti_abuse_metadata": {
+                                "/geoUrn": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/companyName": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/companyUrn": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/entityUrn": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/geoLocationName": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/promotion": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/title": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/region": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/locationName": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/description": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                }
+                        },
+                        "geoLocationName": "Milano, Lombardia, Italia",
+                        "geoUrn": "urn:li:fs_geo:100881402",
+                        "companyName": "Bit Software Solutions",
+                        "timePeriod": {
+                                "startDate": {
+                                        "month": 2,
+                                        "year": 2022
+                                }
+                        },
+                        "description": "1) scrittura test automatici in selenium\n2) performance test\n3) creazione pipeline CI/CD\n4) esecuzione test automatici su mobile",
+                        "company": {
+                                "employeeCountRange": {
+                                        "start": 51,
+                                        "end": 200
+                                },
+                                "industries": [
+                                        "Informatica e servizi"
+                                ]
+                        },
+                        "title": "Test Automation Specialist",
+                        "region": "urn:li:fs_region:(it,0)",
+                        "companyUrn": "urn:li:fs_miniCompany:10031642",
+                        "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQGZyFrbDqG6mA/company-logo_"
+                }
+        ],
+        "education": [
+                {
+                        "entityUrn": "urn:li:fs_education:(ACoAADrJCJYBIsbDnKieXf5XCptH8V6KM7PYpvc,787473144)",
+                        "school": {
+                                "objectUrn": "urn:li:school:13875",
+                                "entityUrn": "urn:li:fs_miniSchool:13875",
+                                "active": true,
+                                "schoolName": "Universit\u00e0 degli Studi di Milano",
+                                "trackingId": "d1E0kESDTKK8V8WnPiQhmQ==",
+                                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFrbSQVVNfRrg/company-logo_"
+                        },
+                        "$anti_abuse_metadata": {
+                                "/schoolUrn": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/degreeUrn": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/fieldOfStudy": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/activities": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/entityUrn": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/grade": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/fieldOfStudyUrn": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/schoolName": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/degreeName": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                },
+                                "/description": {
+                                        "sourceUrns": {
+                                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:986253462"
+                                        }
+                                }
+                        },
+                        "timePeriod": {
+                                "endDate": {
+                                        "year": 2022
+                                },
+                                "startDate": {
+                                        "year": 2019
+                                }
+                        },
+                        "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100177",
+                        "degreeName": "Informatica",
+                        "schoolName": "Universit\u00e0 degli Studi di Milano",
+                        "fieldOfStudy": "Informatica",
+                        "schoolUrn": "urn:li:fs_miniSchool:13875"
+                }
+        ]
+}
