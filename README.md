@@ -24,7 +24,7 @@ You will have to install all those dependencies inside the root directory:
 
 
 
-Then we have to install Osintagram dependencies:
+Then you have to install Osintagram dependencies:
 
 Inside *Osintagram* folder : `cd Osintagram` you must run this commands:
 
