@@ -22,6 +22,8 @@ You will have to install all those dependencies inside the root directory:
 
 `pip install hatesonar`
 
+`pip3 install "scikit_learn==0.22.2.post1"`
+
 
 
 Then you have to install Osintagram dependencies:
