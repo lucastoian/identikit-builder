@@ -215,6 +215,7 @@ try:
         plt.xticks(rotation=90)
         plt.bar( *zip(*last20KeyWOrdsSorted))
         plt.savefig('output/img/keywords.png')
+        plt.savefig('img/keywords.png')
 
         all_words = ' '.join([text[0] for text in sortedKeywords])
         wordcloud = WordCloud(width=800, height=500, random_state=21, max_font_size=110).generate(all_words)
@@ -223,7 +224,7 @@ try:
         plt.axis('off')
         plt.title('Random Words')
         plt.savefig('output/img/randomWords.png')
-
+        plt.savefig('img/randomWords.png')
  
 
 
@@ -237,6 +238,7 @@ try:
             plt.axis('off')
             plt.title('Hate Speech')
             plt.savefig('output/img/hateSpeech.png')
+            plt.savefig('img/hateSpeech.png')
 
         if(len(offensiveLanguageDataset) > 0):
             word_could_dict = Counter(offensiveLanguageDataset)
@@ -247,6 +249,7 @@ try:
             plt.axis('off')
             plt.title('Offensive Language')
             plt.savefig('output/img/offensive.png')
+            plt.savefig('img/offensive.png')
 
        
         data['searched_name'] = nome + " " + cognome

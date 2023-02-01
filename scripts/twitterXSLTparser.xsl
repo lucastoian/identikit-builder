@@ -31,7 +31,7 @@
                 <p>Tools such as search engines, data mining software, and social media monitoring platforms can be used to collect and analyze data from Twitter and other social media platforms.</p>
                 <p>However, it's important to consider the ethical and legal implications of using social media for OSINT, as well as the potential for inaccuracies or biases in the information collected.</p>
                 <p style="    margin-bottom: 0;">On the next pages you can find out what we have found about <span>  <xsl:value-of select="Account/name"/></span> on twitter </p> 
-                <img style="  width: 100%;"  src="output/img/randomWords.png"></img>
+                <img style="  width: 100%;"  src="img/randomWords.png"></img>
             </div>
    
             
@@ -39,7 +39,7 @@
 
             <div style=" max-width: 1000px;margin:auto; page-break-before:always; height:100%;margin-top:0!important; margin-bottom:0!important;">
                 <h2 style="text-align:center;    background-color: #a6d5ff;margin-bottom: 0;">Last 400 status:</h2>
-                <img style="  height:40%;  width: 100%;"  src="output/img/keywords.png"></img>
+                <img style="  height:40%;  width: 100%;"  src="img/keywords.png"></img>
                 <div style=" height: 50%;                overflow:auto; padding:40px;background-color: aliceblue; padding-top:0!important; padding-bottom:0!important   ">
                     <xsl:for-each select="Account/Status">
                         <p><xsl:value-of select="text"/></p>
@@ -52,7 +52,7 @@
 
             <div style=" max-width: 1000px;margin:auto;  height:100%; margin-top:0!important; margin-bottom:0!important;">
                 <h2 style="text-align:center;    background-color: #ff4e4e;margin-bottom: 0;margin-top:0!important;">Offensive language detected:</h2>
-                <img style=" height:40%;    width: 100%;" src="output/img/offensive.png"></img>
+                <img style=" height:40%;    width: 100%;" src="img/offensive.png"></img>
                 <div style="height: 50%;                overflow:auto; padding:40px;background-color: #ffedef; padding-top:0!important;   padding-bottom:0!important ">
                     <xsl:for-each select="Account/offensiveLanguage">
                         <p><xsl:value-of select="text"/></p>
@@ -65,7 +65,7 @@
 
             <div style=" max-width: 1000px;margin:auto;  height:100%;margin-top:0; margin-bottom:0;">
                 <h2 style="text-align:center;    background-color: #ff4e4e;margin-bottom: 0;">Hate language detected:</h2>
-                <img style=" height:40%;    width: 100%;" src="output/img/hateSpeech.png"></img>
+                <img style=" height:40%;    width: 100%;" src="img/hateSpeech.png"></img>
                 <div style=" height: 80%;                overflow:auto; padding:40px;background-color: #ffedef; padding-top:0!important;  padding-bottom:0!important  ">
                     <xsl:for-each select="Account/hateLanguage">
                         <p><xsl:value-of select="text"/></p>
